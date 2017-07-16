@@ -34,3 +34,6 @@ Use JDBC URL:= jdbc:h2:file:./default to connect to the database
 
 #Input file
 employee.csv is used as input for initial database setup.
+
+#Log
+The Log of the application will be produced under log folder if any error occurs.
