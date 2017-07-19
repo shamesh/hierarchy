@@ -10,7 +10,7 @@ This application run in
 ## Endpoints
 ### /organisation 
 This url is use to show the overall Organisational chart. The chart starts with the top most employee without any manager.
-http://localhost:8080/organisationa/
+http://localhost:8080/organisation/
 ### /addemployees
 This url is use to add new employee in the system.
 
